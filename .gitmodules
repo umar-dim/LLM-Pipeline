@@ -1,0 +1,6 @@
+[submodule "LLM-Training"]
+	path = LLM-Training
+	url = git@github.com:umar-dim/LLM-Training.git
+[submodule "Token-Processor"]
+	path = Token-Processor
+	url = git@github.com:umar-dim/Token-Processor.git
